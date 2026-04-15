@@ -145,6 +145,8 @@ Authorization: Bearer tu_token
 
 Este backend está diseñado para ser consumido por un frontend en React.
 
+https://github.com/93jeisson/inventory-app-frontend.git
+
 Ejemplo de endpoint:
 
 ```
